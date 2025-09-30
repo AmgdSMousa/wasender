@@ -1,0 +1,5 @@
+{
+  "name": "WhatsApp Bulk Messenger Assistant",
+  "description": "A web-based assistant to help manage and streamline the process of sending bulk messages on WhatsApp, inspired by an automation script. This tool helps you organize contacts, alternate between message templates, and track your progress, providing convenient links to open WhatsApp chats pre-filled with your messages.",
+  "requestFramePermissions": []
+}
